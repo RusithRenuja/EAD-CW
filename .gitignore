@@ -5,3 +5,5 @@
 *.class
 *.jar
 *.exe
+/ProSportManagaementSystem/nbproject/private/
+/ProSportManagaementSystem/build/
